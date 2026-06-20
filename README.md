@@ -4,7 +4,7 @@ A TypeScript library that parses bank SMS messages into structured transaction d
 
 Works in **Node.js**, **React Native**, and any TypeScript/JavaScript project. No native dependencies.
 
-[![npm](https://img.shields.io/npm/v/bank-sms-parser)](https://www.npmjs.com/package/bank-sms-parser)
+[![npm](https://img.shields.io/npm/v/bank-sms-parser)](https://www.npmjs.com/package/@rahatsayyed/bank-sms-parser)
 [![License: AGPL v3](https://img.shields.io/badge/License-AGPL_v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
 [![Tests](https://img.shields.io/badge/tests-328%20passing-brightgreen)](https://github.com/rahatsayyed/BankSMSParser/actions)
 
